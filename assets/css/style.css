@@ -1418,12 +1418,12 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: rgba(90, 100, 118, 0.9);
+  background: #37517e;
 }
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #f3f5fa;
+  background: rgba(90, 100, 118, 0.9);
   text-align: center;
   font-size: 15px;
   color: rgba(90, 100, 118, 0.9);
@@ -1435,7 +1435,10 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #fff;
+}
+#footer .footer-newsletter p {
+  color: #fff;
 }
 
 #footer .footer-newsletter form {
