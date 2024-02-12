@@ -1418,7 +1418,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: rgba(90, 100, 118, 0.9);
 }
 
 #footer .footer-newsletter {
@@ -1426,7 +1426,7 @@ section {
   background: #f3f5fa;
   text-align: center;
   font-size: 15px;
-  color: #444444;
+  color: rgba(90, 100, 118, 0.9);
 }
 
 #footer .footer-newsletter h4 {
